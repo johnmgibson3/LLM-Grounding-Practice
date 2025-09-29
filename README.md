@@ -1,2 +1,4 @@
 # LLM-Grounding-Practice
 Vectorize excel data and pass into db, give AI 
+
+- Create the Vector Database to store job data
